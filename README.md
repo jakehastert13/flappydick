@@ -1,2 +1,2 @@
 # flappydick
-thanks eric
+thanks erik
